@@ -28,4 +28,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/mcp-server:latest
+          tags: ghcr.io/zyla-labs/mcp-server:latest
+
